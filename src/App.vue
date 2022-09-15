@@ -19,5 +19,8 @@ watch(locale, (newlocale) => {
   <h1>{{ $t('msg') }}</h1>
 </template>
 
-<style scoped>
+<style lang="sass" scoped>
+nav
+  select
+    border: 1px solid black
 </style>
