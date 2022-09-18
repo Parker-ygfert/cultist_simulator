@@ -1,0 +1,184 @@
+[
+  {
+    "id": "vaultcapital1",
+    "obstacles": {
+      "peril": {
+        "name": null,
+        "overcomes": null
+      },
+      "guardian": {
+        "name": "guardian_watchers",
+        "overcomes": ["edge", "grail", "moth"]
+      },
+      "seal": {
+        "name": null,
+        "overcomes": null
+      },
+      "curse": {
+        "name": null,
+        "overcomes": null
+      }
+    },
+    "books": [
+      "locksmithsdream4",
+      "travellingatnight3",
+      "treatiseonunderplaces",
+      "wainscothistories",
+      "textbookfucine"
+    ]
+  },
+  {
+    "id": "vaultcapital2",
+    "obstacles": {
+      "peril": {
+        "name": null,
+        "overcomes": null
+      },
+      "guardian": {
+        "name": null,
+        "overcomes": null
+      },
+      "seal": {
+        "name": "seal_hiddendoor",
+        "overcomes": ["knock", "lantern", null]
+      },
+      "curse": {
+        "name": null,
+        "overcomes": null
+      }
+    },
+    "books": null,
+    "tools": [
+      "toollanternbcracked",
+      "toolwinterd"
+    ],
+    "ingredients": [
+      "ingredientlanternb"
+    ],
+    "other": [
+      "hq.mithraeum.potential"
+    ]
+  },
+  {
+    "id": "vaultcapital3",
+    "obstacles": {
+      "peril": {
+        "name": "peril_treacherousground",
+        "overcomes": ["forge", "lantern", null]
+      },
+      "guardian": {
+        "name": null,
+        "overcomes": null
+      },
+      "seal": {
+        "name": null,
+        "overcomes": null
+      },
+      "curse": {
+        "name": null,
+        "overcomes": null
+      }
+    },
+    "books": [
+      "apolloandmarsyas",
+      "franklinbancroftdiaries"
+    ],
+    "tools": [
+      "toolheartb"
+    ],
+    "ingredients": [
+      "ingredientgrailb"
+    ],
+    "other": [
+      "hq.warehouse.potential"
+    ]
+  },
+  {
+    "id": "vaultcapital4",
+    "obstacles": {
+      "peril": {
+        "name": null,
+        "overcomes": null
+      },
+      "guardian": {
+        "name": null,
+        "overcomes": null
+      },
+      "seal": {
+        "name": null,
+        "overcomes": null
+      },
+      "curse": {
+        "name": "curse_dread",
+        "overcomes": ["heart", "lantern", null]
+      }
+    },
+    "books": [
+      "locksmithsdream3",
+      "roseofhypatia"
+    ],
+    "tools": [
+      "toolgrailb"
+    ],
+    "ingredients": [
+      "ingredientheartb"
+    ],
+    "other": [
+      "hq.hospital.potential"
+    ]
+  },
+  {
+    "id": "vaultcapital5",
+    "obstacles": {
+      "peril": {
+        "name": null,
+        "overcomes": null
+      },
+      "guardian": {
+        "name": "guardian_monks",
+        "overcomes": ["edge", "moth", null]
+      },
+      "seal": {
+        "name": null,
+        "overcomes": null
+      },
+      "curse": {
+        "name": null,
+        "overcomes": null
+      }
+    },
+    "books": [
+      "roseofnuriel",
+      "roseofwaznei",
+      "debellismurorum",
+      "chioneatabydos",
+      "textbookgreek"
+    ],
+    "other": [
+      "hq.church.potential",
+      "corpse.luxurious"
+    ]
+  },
+  {
+    "id": "vaultcapitaldefault",
+    "obstacles": {
+      "peril": {
+        "name": "peril_treacherousground",
+        "overcomes": ["forge", "lantern", null]
+      },
+      "guardian": {
+        "name": "guardian_watchers",
+        "overcomes": ["edge", "grail", "moth"]
+      },
+      "seal": {
+        "name": null,
+        "overcomes": null
+      },
+      "curse": {
+        "name": null,
+        "overcomes": null
+      }
+    }
+  }
+]
+

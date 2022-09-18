@@ -1,7 +1,7 @@
 @charset "utf-8";
 html {
-  background-color: #fff;
-  color: #000;
+  /* background-color: #fff; */
+  /* color: #000; */
   font-size: 12px
 }
 
@@ -199,7 +199,7 @@ html {
 
 body {
   font-family: Arial, "Microsoft Yahei", "Helvetica Neue", Helvetica, sans-serif;
-  color: #333;
+  /* color: #333; */
   font-size: .28em;
   line-height: 1;
   -webkit-text-size-adjust: none;
@@ -216,4 +216,3 @@ a {
   color: #25a4bb;
   text-decoration: none;
 }
-

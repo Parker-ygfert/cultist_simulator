@@ -1,6 +1,7 @@
 <script setup>
 import { watch } from 'vue'
 import { useI18n } from 'vue-i18n'
+import VaultList from './components/VaultList'
 
 const { t, locale } = useI18n()
 
@@ -16,11 +17,15 @@ watch(locale, (newlocale) => {
       <option>en</option>
     </select>
   </nav>
-  <h1>{{ $t('msg') }}</h1>
+  <VaultList />
 </template>
 
-<style lang="sass" scoped>
-nav
-  select
-    border: 1px solid black
+<style lang="sass">
+html
+  background: #244042
+  color: white
+
+#app
+  margin: auto
+  max-width: 1280px
 </style>
