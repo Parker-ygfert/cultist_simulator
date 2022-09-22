@@ -1,24 +1,20 @@
 [
   {
     "id": "vaultcapital1",
-    "obstacles": {
-      "peril": {
-        "name": null,
-        "overcomes": null
+    "obstacles": [
+      {
+        "peril": null
       },
-      "guardian": {
-        "name": "guardian_watchers",
-        "overcomes": ["edge", "grail", "moth"]
+      {
+        "guardian": "guardian_watchers"
       },
-      "seal": {
-        "name": null,
-        "overcomes": null
+      {
+        "seal": null
       },
-      "curse": {
-        "name": null,
-        "overcomes": null
+      {
+        "curse": null
       }
-    },
+    ],
     "books": [
       "locksmithsdream4",
       "travellingatnight3",
@@ -29,24 +25,20 @@
   },
   {
     "id": "vaultcapital2",
-    "obstacles": {
-      "peril": {
-        "name": null,
-        "overcomes": null
+    "obstacles": [
+      {
+        "peril": null
       },
-      "guardian": {
-        "name": null,
-        "overcomes": null
+      {
+        "guardian": null
       },
-      "seal": {
-        "name": "seal_hiddendoor",
-        "overcomes": ["knock", "lantern", null]
+      {
+        "seal": "seal_hiddendoor"
       },
-      "curse": {
-        "name": null,
-        "overcomes": null
+      {
+        "curse": null
       }
-    },
+    ],
     "books": null,
     "tools": [
       "toollanternbcracked",
@@ -61,24 +53,20 @@
   },
   {
     "id": "vaultcapital3",
-    "obstacles": {
-      "peril": {
-        "name": "peril_treacherousground",
-        "overcomes": ["forge", "lantern", null]
+    "obstacles": [
+      {
+        "peril": "peril_treacherousground"
       },
-      "guardian": {
-        "name": null,
-        "overcomes": null
+      {
+        "guardian": null
       },
-      "seal": {
-        "name": null,
-        "overcomes": null
+      {
+        "seal": null
       },
-      "curse": {
-        "name": null,
-        "overcomes": null
+      {
+        "curse": null
       }
-    },
+    ],
     "books": [
       "apolloandmarsyas",
       "franklinbancroftdiaries"
@@ -95,24 +83,20 @@
   },
   {
     "id": "vaultcapital4",
-    "obstacles": {
-      "peril": {
-        "name": null,
-        "overcomes": null
+    "obstacles": [
+      {
+        "peril": null
       },
-      "guardian": {
-        "name": null,
-        "overcomes": null
+      {
+        "guardian": null
       },
-      "seal": {
-        "name": null,
-        "overcomes": null
+      {
+        "seal": null
       },
-      "curse": {
-        "name": "curse_dread",
-        "overcomes": ["heart", "lantern", null]
+      {
+        "curse": "curse_dread"
       }
-    },
+    ],
     "books": [
       "locksmithsdream3",
       "roseofhypatia"
@@ -129,24 +113,20 @@
   },
   {
     "id": "vaultcapital5",
-    "obstacles": {
-      "peril": {
-        "name": null,
-        "overcomes": null
+    "obstacles": [
+      {
+        "peril": null
       },
-      "guardian": {
-        "name": "guardian_monks",
-        "overcomes": ["edge", "moth", null]
+      {
+        "guardian": "guardian_monks"
       },
-      "seal": {
-        "name": null,
-        "overcomes": null
+      {
+        "seal": null
       },
-      "curse": {
-        "name": null,
-        "overcomes": null
+      {
+        "curse": null
       }
-    },
+    ],
     "books": [
       "roseofnuriel",
       "roseofwaznei",
@@ -161,24 +141,196 @@
   },
   {
     "id": "vaultcapitaldefault",
-    "obstacles": {
-      "peril": {
-        "name": "peril_treacherousground",
-        "overcomes": ["forge", "lantern", null]
+    "obstacles": [
+      {
+        "peril": "peril_treacherousground"
       },
-      "guardian": {
-        "name": "guardian_watchers",
-        "overcomes": ["edge", "grail", "moth"]
+      {
+        "guardian": "guardian_watchers"
       },
-      "seal": {
-        "name": null,
-        "overcomes": null
+      {
+        "seal": null
       },
-      "curse": {
-        "name": null,
-        "overcomes": null
+      {
+        "curse": null
       }
-    }
+    ]
+  },
+  {
+    "id": "vaultcontinent1",
+    "obstacles": [
+      {
+        "peril": null
+      },
+      {
+        "guardian": null
+      },
+      {
+        "seal": "seal_hiddendoor"
+      },
+      {
+        "curse": "curse_dread"
+      }
+    ],
+    "books": [
+      "highmysterieschurchsolar",
+      "bookoftrueblood",
+      "morphycodex"
+    ],
+    "tools": [
+      "toolforgeb"
+    ],
+    "ingredients": [
+      "ingredientwinterb"
+    ],
+    "other": null
+  },
+  {
+    "id": "vaultcontinent2",
+    "obstacles": [
+      {
+        "peril": "peril_forest"
+      },
+      {
+        "guardian": "guardian_monks"
+      },
+      {
+        "seal": null
+      },
+      {
+        "curse": null
+      }
+    ],
+    "books": [
+      "textbookaramaic",
+      "thirstingtantra",
+      "dehoris2",
+      "tantraworms",
+      "againstsisterhoodknot"
+    ],
+    "ingredients": [
+      "ingredientheartb"
+    ]
+  },
+  {
+    "id": "vaultcontinent3",
+    "obstacles": [
+      {
+        "peril": "peril_forest"
+      },
+      {
+        "guardian": "guardian_watchers"
+      },
+      {
+        "seal": null
+      },
+      {
+        "curse": null
+      }
+    ],
+    "books": [
+      "inthemountainsasupontheplain"
+    ],
+    "tools": [
+      "toolgrailmoth",
+      "toolmothd"
+    ],
+    "ingredients": [
+      "ingredientmothd"
+    ]
+  },
+  {
+    "id": "vaultcontinent4",
+    "obstacles": [
+      {
+        "peril": null
+      },
+      {
+        "guardian": null
+      },
+      {
+        "seal": "seal_wardeddoor"
+      },
+      {
+        "curse": "curse_visions"
+      }
+    ],
+    "books": [
+      "textbookaramaic",
+      "vinzantinscriptions",
+      "watchfultantra",
+      "geminiad"
+    ],
+    "tools": [
+      "toolsecrethistoriesb"
+    ],
+    "other": [
+      "influencemothc",
+      "jumble"
+    ]
+  },
+  {
+    "id": "vaultcontinent5",
+    "obstacles": [
+      {
+        "peril": null
+      },
+      {
+        "guardian": "guardian_dead"
+      },
+      {
+        "seal": null
+      },
+      {
+        "curse": "curse_dread"
+      }
+    ],
+    "books": [
+      "devouredtantra",
+      "matthiasamethysttransformation",
+      "deedsofthescarredcaptain",
+      "worlddoesnotweep"
+    ]
+  },
+  {
+    "id": "vaultcontinent6",
+    "obstacles": [
+      {
+        "peril": null
+      },
+      {
+        "guardian": "guardian_serpent"
+      },
+      {
+        "seal": "seal_hiddendoor"
+      },
+      {
+        "curse": null
+      }
+    ],
+    "books": [
+      "serenityofblackwood",
+      "irreproachabletraditionssocietynobleendeavour",
+      "onthematterandthedeedsofserpents",
+      "textbookfucine"
+    ]
+  },
+  {
+    "id": "vaultcontinentdefault",
+    "obstacles": [
+      {
+        "peril": "peril_forest"
+      },
+      {
+        "guardian": "guardian_watchers"
+      },
+      {
+        "seal": "seal_hiddendoor"
+      },
+      {
+        "curse": null
+      }
+    ]
   }
 ]
 
