@@ -157,6 +157,157 @@
     ]
   },
   {
+    "id": "vaultshires1",
+    "obstacles": [
+      {
+        "peril": null
+      },
+      {
+        "guardian": "guardian_serpent"
+      },
+      {
+        "seal": null
+      },
+      {
+        "curse": null
+      }
+    ],
+    "books": [
+      "orchidtransfigurations3",
+      "indignitiesobliviate"
+    ],
+    "ingredients": [
+      "ingredientheartd"
+    ]
+  },
+  {
+    "id": "vaultshires2",
+    "obstacles": [
+      {
+        "peril": "peril_treacherousground"
+      },
+      {
+        "guardian": "guardian_watchers"
+      },
+      {
+        "seal": null
+      },
+      {
+        "curse": null
+      }
+    ],
+    "books": [
+      "flayedtantra"
+    ],
+    "tools": [
+      "toolmothb",
+      "toolknockb"
+    ],
+    "ingredients": [
+      "ingredientgrailb"
+    ]
+  },
+  {
+    "id": "vaultshires3",
+    "obstacles": [
+      {
+        "peril": null
+      },
+      {
+        "guardian": null
+      },
+      {
+        "seal": "seal_wardeddoor"
+      },
+      {
+        "curse": null
+      }
+    ],
+    "books": [
+      "bookofcentipede"
+    ],
+    "tools": [
+      "toolwinterb",
+      "tooledgeb"
+    ],
+    "ingredients": [
+      "ingredientmothb",
+      "ingredientwinterb"
+    ],
+    "other": [
+      "influencewinterc",
+      "corpse.furious"
+    ]
+  },
+  {
+    "id": "vaultshires4",
+    "obstacles": [
+      {
+        "peril": "peril_treacherousground"
+      },
+      {
+        "guardian": "guardian_dead"
+      },
+      {
+        "seal": null
+      },
+      {
+        "curse": null
+      }
+    ],
+    "books": [
+      "victoryofcrowns"
+    ],
+    "tools": [
+      "toollanterndcracked",
+      "tooledged"
+    ],
+    "other": [
+      "corpse.splendid"
+    ]
+  },
+  {
+    "id": "vaultshires5",
+    "obstacles": [
+      {
+        "peril": null
+      },
+      {
+        "guardian": "guardian_watchers"
+      },
+      {
+        "seal": "seal_wardeddoor"
+      },
+      {
+        "curse": null
+      }
+    ],
+    "books": [
+      "shavenlocktantra",
+      "matthiasamethystloss",
+      "thosewhodonotsleep",
+      "concursumdiaries",
+      "textbooklatin"
+    ]
+  },
+  {
+    "id": "vaultshiresdefault",
+    "obstacles": [
+      {
+        "peril": null
+      },
+      {
+        "guardian": "guardian_watchers"
+      },
+      {
+        "seal": "seal_wardeddoor"
+      },
+      {
+        "curse": "curse_visions"
+      }
+    ]
+  },
+  {
     "id": "vaultcontinent1",
     "obstacles": [
       {

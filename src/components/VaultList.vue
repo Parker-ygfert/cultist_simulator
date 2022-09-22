@@ -73,8 +73,10 @@
           </div>
         </td>
         <td class="ingredients">
-          <div v-for="ingredient in vault.ingredients" class="img">
-            <img :src="`src/assets/images/ingredients/${ingredient}.png`" alt="">
+          <div>
+            <div v-for="ingredient in vault.ingredients" class="img">
+              <img :src="`src/assets/images/ingredients/${ingredient}.png`" alt="">
+            </div>
           </div>
         </td>
         <td class="other">
