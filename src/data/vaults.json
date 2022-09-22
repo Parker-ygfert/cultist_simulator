@@ -676,6 +676,127 @@
         "curse": "curse_visions"
       }
     ]
+  },
+  {
+    "id": "vaultrendingmountains1",
+    "obstacles": [
+      {
+        "peril": "peril_mountains"
+      },
+      {
+        "guardian": "guardian_watchers"
+      },
+      {
+        "guardian": "guardian_serpent"
+      },
+      {
+        "curse": null
+      }
+    ],
+    "books": [
+      "bookofdissolution",
+      "textbookmandaic"
+    ],
+    "tools": [
+      "toolforged"
+    ],
+    "ingredients": [
+      "ingredientforgeb",
+      "ingredientedgef"
+    ]
+  },
+  {
+    "id": "vaultrendingmountains2",
+    "obstacles": [
+      {
+        "peril": "peril_mountains"
+      },
+      {
+        "guardian": "guardian_dead"
+      },
+      {
+        "seal": null
+      },
+      {
+        "curse": "curse_nowhere"
+      }
+    ],
+    "books": [
+      "dreamconspiracyskies",
+      "wherehasshegone",
+      "textbookvaksanskrit"
+    ],
+    "tools": [
+      "toolgraild",
+      "tooledgef"
+    ]
+  },
+  {
+    "id": "vaultrendingmountains3",
+    "obstacles": [
+      {
+        "peril": "peril_mountains"
+      },
+      {
+        "guardian": null
+      },
+      {
+        "seal": "seal_wardeddoor"
+      },
+      {
+        "curse": "curse_visions"
+      }
+    ],
+    "books": [
+      "bookofmasks",
+      "larquebinecodex"
+    ],
+    "tools": [
+      "toollanternfcracked",
+      "toolknockd"
+    ]
+  },
+  {
+    "id": "vaultrendingmountains4",
+    "obstacles": [
+      {
+        "peril": "peril_mountains"
+      },
+      {
+        "guardian": "guardian_dead"
+      },
+      {
+        "seal": "seal_wardeddoor"
+      },
+      {
+        "curse": null
+      }
+    ],
+    "books": [
+      "textbookphrygian",
+      "asthesunhiscourse",
+      "secondglory"
+    ],
+    "ingredients": [
+      "ingredientwinterd"
+    ]
+  },
+  {
+    "id": "vaultrendingmountainsdefault",
+    "obstacles": [
+      {
+        "peril": "peril_mountains"
+      },
+      {
+        "guardian": "guardian_watchers"
+      },
+      {
+        "seal": "seal_hiddendoor"
+      },
+      {
+        "curse": "curse_affliction"
+      }
+    ]
   }
 ]
 
