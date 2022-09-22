@@ -48,7 +48,10 @@
       "ingredientlanternb"
     ],
     "other": [
-      "hq.mithraeum.potential"
+      {
+        "dir": "headquarters",
+        "name": "hq.mithraeum.potential"
+      }
     ]
   },
   {
@@ -78,7 +81,10 @@
       "ingredientgrailb"
     ],
     "other": [
-      "hq.warehouse.potential"
+      {
+        "dir": "headquarters",
+        "name": "hq.warehouse.potential"
+      }
     ]
   },
   {
@@ -108,7 +114,10 @@
       "ingredientheartb"
     ],
     "other": [
-      "hq.hospital.potential"
+      {
+        "dir": "headquarters",
+        "name": "hq.hospital.potential"
+      }
     ]
   },
   {
@@ -135,8 +144,14 @@
       "textbookgreek"
     ],
     "other": [
-      "hq.church.potential",
-      "corpse.luxurious"
+      {
+        "dir": "headquarters",
+        "name": "hq.church.potential"
+      },
+      {
+        "dir": "corpses",
+        "name": "corpse.luxurious" 
+      }
     ]
   },
   {
@@ -235,8 +250,14 @@
       "ingredientwinterb"
     ],
     "other": [
-      "influencewinterc",
-      "corpse.furious"
+      {
+        "dir": "influences",
+        "name": "influencewinterc"
+      },
+      {
+        "dir": "corpses",
+        "name": "corpse.furious"
+      }
     ]
   },
   {
@@ -263,7 +284,10 @@
       "tooledged"
     ],
     "other": [
-      "corpse.splendid"
+      {
+        "dir": "corpses",
+        "name": "corpse.splendid"
+      }
     ]
   },
   {
@@ -333,8 +357,7 @@
     ],
     "ingredients": [
       "ingredientwinterb"
-    ],
-    "other": null
+    ]
   },
   {
     "id": "vaultcontinent2",
@@ -416,8 +439,14 @@
       "toolsecrethistoriesb"
     ],
     "other": [
-      "influencemothc",
-      "jumble"
+      {
+        "dir": "influences",
+        "name": "influencemothc"
+      },
+      {
+        "dir": "auctionables",
+        "name": "jumble"
+      }
     ]
   },
   {
@@ -480,6 +509,171 @@
       },
       {
         "curse": null
+      }
+    ]
+  },
+  {
+    "id": "vaultlandbeyondforest1",
+    "obstacles": [
+      {
+        "peril": "peril_mountains"
+      },
+      {
+        "guardian": "guardian_serpent"
+      },
+      {
+        "seal": null
+      },
+      {
+        "curse": null
+      }
+    ],
+    "books": [
+      "theskythesoul",
+      "accountkanishkspidersdoor"
+    ],
+    "ingredients": [
+      "ingredientlanternf"
+    ],
+    "other": [
+      {
+        "dir": "influences",
+        "name": "influencelanternc"
+      }
+    ]
+  },
+  {
+    "id": "vaultlandbeyondforest2",
+    "obstacles": [
+      {
+        "peril": null
+      },
+      {
+        "guardian": "guardian_dead"
+      },
+      {
+        "seal": "seal_hiddendoor"
+      },
+      {
+        "curse": null
+      }
+    ],
+    "books": [
+      "catalogueofunchartedpleasures",
+      "twentysixenticementsseventorments",
+      "gospelzacchaeus",
+      "bookofthrones"
+    ],
+    "tools": [
+      "toolheartd"
+    ],
+    "other": [
+      {
+        "dir": "influences",
+        "name": "influencegrailc"
+      }
+    ]
+  },
+  {
+    "id": "vaultlandbeyondforest3",
+    "obstacles": [
+      {
+        "peril": null
+      },
+      {
+        "guardian": "guardian_watchers"
+      },
+      {
+        "seal": null
+      },
+      {
+        "curse": "curse_nowhere"
+      }
+    ],
+    "books": [
+      "historyofshadowlesskings",
+      "ivorybook",
+      "sunsetpassages",
+      "textbooksanskrit"
+    ],
+    "ingredients": [
+      "ingredientgrailf"
+    ],
+    "other": [
+      {
+        "dir": "influences",
+        "name": "erudition"
+      },
+      {
+        "dir": "auctionables",
+        "name": "jumble"
+      }
+    ]
+  },
+  {
+    "id": "vaultlandbeyondforest4",
+    "obstacles": [
+      {
+        "peril": null
+      },
+      {
+        "guardian": null
+      },
+      {
+        "seal": "seal_hiddendoor"
+      },
+      {
+        "curse": "curse_affliction"
+      }
+    ],
+    "books": [
+      "furioustantra",
+      "howendwillbegin",
+      "twinserpenttantra"
+    ],
+    "ingredients": [
+      "ingredientforgeb"
+    ]
+  },
+  {
+    "id": "vaultlandbeyondforest5",
+    "obstacles": [
+      {
+        "peril": "peril_treacherousground"
+      },
+      {
+        "guardian": "guardian_watchers"
+      },
+      {
+        "seal": "seal_hiddendoor"
+      },
+      {
+        "curse": null
+      }
+    ],
+    "books": [
+      "matthiasamethystpursuit",
+      "burningwoman",
+      "ironbook",
+      "knownunknowntantra",
+      "encirclingtantra",
+      "silverbook"
+    ]
+  },
+  {
+    "id": "vaultlandbeyondforestdefault",
+    "obstacles": [
+      {
+        "peril": "peril_mountains"
+      },
+      {
+        "guardian": "guardian_watchers"
+      },
+      {
+        "seal": null
+      },
+      {
+        "curse": "curse_visions"
       }
     ]
   }

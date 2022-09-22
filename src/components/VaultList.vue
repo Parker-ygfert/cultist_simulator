@@ -11,16 +11,16 @@
             </tr>
             <tr>
               <th>
-                <div class="img"><img src="../assets/images/vaults/peril.png" alt=""></div>
+                <div class="img"><img src="../assets/images/obstacles/peril.png" alt=""></div>
               </th>
               <th>
-                <div class="img"><img src="../assets/images/vaults/guardian.png" alt=""></div>
+                <div class="img"><img src="../assets/images/obstacles/guardian.png" alt=""></div>
               </th>
               <th>
-                <div class="img"><img src="../assets/images/vaults/seal.png" alt=""></div>
+                <div class="img"><img src="../assets/images/obstacles/seal.png" alt=""></div>
               </th>
               <th>
-                <div class="img"><img src="../assets/images/vaults/curse.png" alt=""></div>
+                <div class="img"><img src="../assets/images/obstacles/curse.png" alt=""></div>
               </th>
             </tr>
           </table>
@@ -45,7 +45,7 @@
             <div v-for="key in Object.keys(vault.obstacles)" :set="obstacleRef = vault.obstacles[key]" class="obstacle">
               <div v-for="name in obstacleRef" class="name">
                 <div class="img">
-                  <img v-if="name" :src="`src/assets/images/vaults/${name}.png`" alt="">
+                  <img v-if="name" :src="`src/assets/images/obstacles/${name}.png`" alt="">
                   <div v-else="name" class="empty-name"></div>
                 </div>
                 <div :set="obstacle = obstacles.find(el => el.id === name)" class="overcomes">
@@ -82,7 +82,7 @@
         <td class="other">
           <div>
             <div v-for="other in vault.other" class="img">
-              <img v-if="other" :src="`src/assets/images/vaults/${other}.png`" alt="">
+              <img v-if="other" :src="`src/assets/images/${other.dir}/${other.name}.png`" alt="">
             </div>
           </div>
         </td>
