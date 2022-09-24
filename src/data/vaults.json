@@ -797,6 +797,132 @@
         "curse": "curse_affliction"
       }
     ]
+  },
+  {
+    "id": "vaultloneandlevelsands1",
+    "obstacles": [
+      {
+        "peril": "peril_desert"
+      },
+      {
+        "guardian": null
+      },
+      {
+        "seal": "seal_hiddendoor"
+      },
+      {
+        "curse": "curse_visions"
+      }
+    ],
+    "books": [
+      "manneralchemistspared",
+      "focusamber",
+      "medusaslament"
+    ],
+    "tools": [
+      "toollanternd"
+    ]
+  },
+  {
+    "id": "vaultloneandlevelsands2",
+    "obstacles": [
+      {
+        "peril": "peril_desert"
+      },
+      {
+        "guardian": null
+      },
+      {
+        "seal": "seal_wardeddoor"
+      },
+      {
+        "curse": "curse_dread"
+      }
+    ],
+    "books": [
+      "voyagesfo"
+    ],
+    "tools": [
+      "toolmothf",
+      "toolsecrethistoriesd"
+    ],
+    "ingredients": [
+      "ingredientmothf",
+      "ingredientknockf"
+    ],
+    "other": [
+      {
+        "dir": "corpses",
+        "name": "corpse.liminal"
+      }
+    ]
+  },
+  {
+    "id": "vaultloneandlevelsands3",
+    "obstacles": [
+      {
+        "peril": "peril_desert"
+      },
+      {
+        "guardian": "guardian_watchers"
+      },
+      {
+        "seal": null
+      },
+      {
+        "curse": "curse_dread"
+      }
+    ],
+    "books": [
+      "sevenfoldslayingsevencoiled",
+      "songscarapacecross"
+    ],
+    "tools": [
+      "toolheartf"
+    ]
+  },
+  {
+    "id": "vaultloneandlevelsands4",
+    "obstacles": [
+      {
+        "peril": "peril_desert"
+      },
+      {
+        "guardian": null
+      },
+      {
+        "seal": "seal_wardeddoor"
+      },
+      {
+        "curse": "curse_nowhere"
+      }
+    ],
+    "books": [
+      "memoryofgods"
+    ],
+    "tools": [
+      "toolwinterf",
+      "toolknockd"
+    ],
+    "ingredients": [
+      "ingredientwinterf"
+    ]
+  },
+  {
+    "id": "vaultloneandlevelsandsdefault",
+    "obstacles": [
+      {
+        "peril": "peril_desert"
+      },
+      {
+        "guardian": "guardian_dead"
+      },
+      {
+        "seal": "seal_hiddendoor"
+      },
+      {
+        "curse": "curse_affliction"
+      }
+    ]
   }
 ]
-
