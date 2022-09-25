@@ -924,5 +924,126 @@
         "curse": "curse_affliction"
       }
     ]
+  },
+  {
+    "id": "vaulteveningisles1",
+    "obstacles": [
+      {
+        "peril": "peril_sea"
+      },
+      {
+        "guardian": "guardian_soucouyants"
+      },
+      {
+        "seal": null
+      },
+      {
+        "curse": "curse_visions"
+      }
+    ],
+    "books": [
+      "originsofhours",
+      "fivecreations",
+      "manualdeparture"
+    ],
+    "tools": [
+      "toolgrailf"
+    ]
+  },
+  {
+    "id": "vaulteveningisles2",
+    "obstacles": [
+      {
+        "peril": "peril_sea"
+      },
+      {
+        "guardian": "guardian_dead"
+      },
+      {
+        "seal": "seal_wardeddoor"
+      },
+      {
+        "curse": null
+      }
+    ],
+    "books": [
+      "timedivision",
+      "bighuff"
+    ],
+    "tools": [
+      "toolforgef"
+    ],
+    "ingredients": [
+      "ingredientheartf"
+    ]
+  },
+  {
+    "id": "vaulteveningisles3",
+    "obstacles": [
+      {
+        "peril": "peril_sea"
+      },
+      {
+        "guardian": "guardian_serpent"
+      },
+      {
+        "seal": null
+      },
+      {
+        "curse": "curse_affliction"
+      }
+    ],
+    "books": [
+      "bookwhitecat",
+      "bookextinguishedheart"
+    ],
+    "tools": [
+      "toolknockf"
+    ],
+    "ingredients": [
+      "ingredientgrailf"
+    ]
+  },
+  {
+    "id": "vaulteveningisles4",
+    "obstacles": [
+      {
+        "peril": null
+      },
+      {
+        "guardian": "guardian_monks"
+      },
+      {
+        "seal": "seal_hiddendoor"
+      },
+      {
+        "curse": "curse_visions"
+      }
+    ],
+    "books": [
+      "birdsong",
+      "commandspreservationallexists",
+      "scarsky"
+    ],
+    "tools": [
+      "toollanternf"
+    ]
+  },
+  {
+    "id": "vaulteveningislesdefault",
+    "obstacles": [
+      {
+        "peril": "peril_sea"
+      },
+      {
+        "guardian": "guardian_long"
+      },
+      {
+        "seal": "seal_wardeddoor"
+      },
+      {
+        "curse": "curse_visions"
+      }
+    ]
   }
 ]
