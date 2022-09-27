@@ -511,6 +511,21 @@
   },
   {
     "id": "vaultcontinent1",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultcontinent",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
@@ -539,6 +554,21 @@
   },
   {
     "id": "vaultcontinent2",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultcontinent",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_forest"
@@ -566,6 +596,21 @@
   },
   {
     "id": "vaultcontinent3",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultcontinent",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_forest"
@@ -593,6 +638,21 @@
   },
   {
     "id": "vaultcontinent4",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultcontinent",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
@@ -629,6 +689,21 @@
   },
   {
     "id": "vaultcontinent5",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultcontinent",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
@@ -652,6 +727,21 @@
   },
   {
     "id": "vaultcontinent6",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultcontinent",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
@@ -675,6 +765,20 @@
   },
   {
     "id": "vaultcontinentdefault",
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultcontinent",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_forest"

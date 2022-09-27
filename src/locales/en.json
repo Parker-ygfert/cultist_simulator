@@ -23,5 +23,21 @@
   "vaultshires5": "Gwaer Inn",
   "vaultshires5_context": "On a crumbling cliff above a grey sea, the Gwaer Inn squats, until the day the sea comes for it. It receives few guests - fewer since the owner closed his notorious library to visiting scholars.",
   "vaultshiresdefault": "Kerisham",
-  "vaultshiresdefault_context": "Drive through the downs to the coast where the grey-green land meets Atlantic grey. Search along the road for signs to Kerisham town. You will rarely find it, even if you have visited before; and its inhabitants guard their secrets with curse and cudgel and fast-bolted door. [You've found all the Expeditions in the Shires, although you can find and visit Kerisham several times.]"
+  "vaultshiresdefault_context": "Drive through the downs to the coast where the grey-green land meets Atlantic grey. Search along the road for signs to Kerisham town. You will rarely find it, even if you have visited before; and its inhabitants guard their secrets with curse and cudgel and fast-bolted door. [You've found all the Expeditions in the Shires, although you can find and visit Kerisham several times.]",
+  "vaultcontinent1": "Chateau Raveline",
+  "vaultcontinent1_context": "The favourite stories of the Comtes des Raveline claim they descend from the first Sun-King. Other stories have them prowling the forest in wolf-shape. They are long gone. Their rotting chateau remains. Not all its malignities have been uncovered.",
+  "vaultcontinent2": "Fermier Abbey",
+  "vaultcontinent2_context": "Robert Fermier spent much of his unsavoury fortune on the endowment of this monumental, forest-crowded abbey. The monks dislike visitors. Their ways are not exactly orthodox. They celebrate a certain harvest festival with unsavoury vigour.",
+  "vaultcontinent3": "Orthos Wood",
+  "vaultcontinent3_context": "The pines grow thick as hairs on a dog's back. The airs of the inner wood are chokingly thick with resin and dust. The source that brought you here claimed that in the dawn times, the greatest tree, at the wood's black heart, served as perch for a great masked Crow.",
+  "vaultcontinent4": "The Vanderschaaf Collection",
+  "vaultcontinent4_context": "A cramped little museum in a provincial town, long closed to the public since an outbreak of peculiar rapture in the room where they keep the pressed flowers. Only the very curious would ever pay attention to the place, and its close-warded store-room of ill-omened treasures.",
+  "vaultcontinent5": "Forman House",
+  "vaultcontinent5_context": "Filip Forman, the helminthologist and antiquarian, did all his best work here at the family home, until the day his subjects escaped. The infestation was destroyed, but Forman, they say, walks the halls to this day, guarding his library and his shame.",
+  "vaultcontinent6": "Key-Hunter's Garret",
+  "vaultcontinent6_context": "Vienna is one of those few cities which has the same name in every History, although adepts know it as the White City, or perhaps the City of the White. In a snowy street, in a crooked house, in a high and rattling attic, we have learnt that an eccentric hunter of imaginary keys has established a tiny trove of odd books.",
+  "vaultcontinentdefault": "The Unnumbered Stones",
+  "vaultcontinentdefault_context": "Megaliths placed in obsessive, inerrant rows by priest-castes long dead. Time has long erased the original blood-stains, but on moonless nights, the locals supplement what remains. Hidden chambers might guard hidden treasures. [You've found all the Expeditions on the Continent, although you can find and visit the Stones several times.]",
+  "vaultlandbeyondforest1": "",
+  "vaultlandbeyondforest1_context": ""
 }
