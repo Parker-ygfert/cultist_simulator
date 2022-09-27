@@ -41,7 +41,7 @@
             :aspects="vault.aspects"
           >
             <div class="img">
-              <img :src="`src/assets/images/vaults/${vault.id}.png`" alt="">
+              <img :src="getImageUrl(`vaults/${vault.id}.png`)" alt="">
             </div>
           </CardPopper>
         </td>
@@ -50,12 +50,12 @@
             <div v-for="key in Object.keys(vault.obstacles)" :set="obstacleRef = vault.obstacles[key]" class="obstacle">
               <div v-for="name in obstacleRef" class="name">
                 <div class="img">
-                  <img v-if="name" :src="`src/assets/images/obstacles/${name}.png`" alt="">
+                  <img v-if="name" :src="getImageUrl(`obstacles/${name}.png`)" alt="">
                   <div v-else="name" class="empty-name"></div>
                 </div>
                 <div :set="obstacle = obstacles.find(el => el.id === name)" class="overcomes">
                   <div v-if="obstacle" v-for="overcome in obstacle.overcomes" class="overcome">
-                    <img v-if="overcome" :src="`src/assets/images/lores/${overcome}.png`" alt="">
+                    <img v-if="overcome" :src="getImageUrl(`lores/${overcome}.png`)" alt="">
                   </div>
                   <div v-else="obstacle" v-for="n in 3" class="overcome"></div>
                 </div>
@@ -66,28 +66,28 @@
         <td class="books">
           <div>
             <div v-for="book in vault.books" class="img">
-              <img :src="`src/assets/images/books/${book}.png`" alt="">
+              <img :src="getImageUrl(`books/${book}.png`)" alt="">
             </div>
           </div>
         </td>
         <td class="tools">
           <div>
             <div v-for="tool in vault.tools" class="img">
-              <img :src="`src/assets/images/tools/${tool}.png`" alt="">
+              <img :src="getImageUrl(`tools/${tool}.png`)" alt="">
             </div>
           </div>
         </td>
         <td class="ingredients">
           <div>
             <div v-for="ingredient in vault.ingredients" class="img">
-              <img :src="`src/assets/images/ingredients/${ingredient}.png`" alt="">
+              <img :src="getImageUrl(`ingredients/${ingredient}.png`)" alt="">
             </div>
           </div>
         </td>
         <td class="other">
           <div>
             <div v-for="other in vault.other" class="img">
-              <img v-if="other" :src="`src/assets/images/${other.dir}/${other.name}.png`" alt="">
+              <img v-if="other" :src="getImageUrl(`${other.dir}/${other.name}.png`)" alt="">
             </div>
           </div>
         </td>
@@ -99,6 +99,7 @@
 
 <script setup>
 import { onMounted } from 'vue'
+import { getImageUrl } from '../scripts/get_image_url.js'
 import CardPopper from './poppers/CardPopper'
 import vaults from '../data/vaults.json'
 import obstacles from '../data/obstacles.json'

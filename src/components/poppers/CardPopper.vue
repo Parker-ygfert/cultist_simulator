@@ -5,7 +5,7 @@
     <div class="card">
       <div class="main">
         <div class="img">
-          <img :src="`src/assets/images/${props.dir}/${props.title}.png`" alt="">
+          <img :src="getImageUrl(`${props.dir}/${props.title}.png`)" alt="">
         </div>
         <div class="description">
           <p class="title">{{ $t(`${props.title}`) }}</p>
@@ -15,7 +15,7 @@
       </div>
       <div class="footer">
         <p v-for="aspect in props.aspects" class="aspects">
-          <img :src="`src/assets/images/aspects/${aspect.name}.png`" alt="">
+          <img :src="getImageUrl(`aspects/${aspect.name}.png`)" alt="">
           {{ aspect.level || null }}
         </p>
       </div>
@@ -26,7 +26,9 @@
 
 <script setup>
 import { defineComponent } from 'vue'
+import { getImageUrl } from '../../scripts/get_image_url.js'
 import Popper from 'vue3-popper'
+
 const props = defineProps({
   dir: String,
   title: String,
@@ -37,10 +39,9 @@ const props = defineProps({
 
 <style lang="sass" scoped>
 :deep(.popper), :deep(.popper:hover)
-  background: rgb(250,248,233)
+  background: rgb(250,248,233) !important
   border: 1px solid black
   border-radius: 3px
-  //display: block !important
 .card
   width: 500px
   border: 1px solid black
