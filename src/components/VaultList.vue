@@ -34,11 +34,16 @@
     <tbody>
       <tr v-for="vault in vaults">
         <td class="location">
-          <VaultCapital3>
+          <CardPopper
+            dir="vaults"
+            :title="vault.id"
+            :unique="vault.unique"
+            :aspects="vault.aspects"
+          >
             <div class="img">
               <img :src="`src/assets/images/vaults/${vault.id}.png`" alt="">
             </div>
-          </VaultCapital3>
+          </CardPopper>
         </td>
         <td class="obstacles">
           <div class="obstacles">
@@ -94,7 +99,7 @@
 
 <script setup>
 import { onMounted } from 'vue'
-import VaultCapital3 from './poppers/VaultCapital3'
+import CardPopper from './poppers/CardPopper'
 import vaults from '../data/vaults.json'
 import obstacles from '../data/obstacles.json'
 </script>

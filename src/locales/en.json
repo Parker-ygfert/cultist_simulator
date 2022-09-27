@@ -1,3 +1,15 @@
 {
-  "msg": "Hello World"
+  "unique": "Unique: Can only exist once",
+  "vaultcapital1": "Strathcoyne's Residence",
+  "vaultcapital1_context": "The house of Mr Fraser Strathcoyne, a collector of rare objects. Strathcoyne will not sell his treasures. But a sufficiently cunning accomplice might gain entry.",
+  "vaultcapital2": "Forgotten Mithraeum",
+  "vaultcapital2_context": "Curiosity-seekers have picked over this ancient temple, but there may be a Hidden Door here somewhere.",
+  "vaultcapital3": "Cater & Hero Limited",
+  "vaultcapital3_context": "It's been abandoned since the explosion, when both the owners died. The machines stand silent; the building is a collapsing shell. Mr Cater was known to display peculiar trinkets in his office. Perhaps some yet remain.",
+  "vaultcapital4": "St Agnes Hospital",
+  "vaultcapital4_context": "They did good work here, once. Certainly there were a few too many amputations, but then there are individuals one would prefer not to walk the city streets.",
+  "vaultcapital5": "Congregation of St Felix of Schüren",
+  "vaultcapital5_context": "A Nonconformist enclave of a heterodox sect of a Calvinist offshoot, tucked away in an odd corner of the city. They belt out hymns with unsuitable gusto, in a throat-scraping language that is very much not quite Latin.",
+  "vaultcapitaldefault": "The Forsaken Reach",
+  "vaultcapitaldefault_context": "Along the grey banks of the rotting river, the warehouses wait. Perhaps I have identified one where an unusual cargo was stored. [You've found all the Expeditions in the Capital, although you can find and visit the Reach several times.]"
 }

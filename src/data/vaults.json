@@ -1,6 +1,21 @@
 [
   {
     "id": "vaultcapital1",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultcapital",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
@@ -25,6 +40,21 @@
   },
   {
     "id": "vaultcapital2",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultcapital",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
@@ -56,6 +86,21 @@
   },
   {
     "id": "vaultcapital3",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultcapital",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_treacherousground"
@@ -89,6 +134,21 @@
   },
   {
     "id": "vaultcapital4",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultcapital",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
@@ -122,6 +182,21 @@
   },
   {
     "id": "vaultcapital5",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultcapital",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
@@ -156,6 +231,20 @@
   },
   {
     "id": "vaultcapitaldefault",
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultcapital",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_treacherousground"
@@ -1044,6 +1133,29 @@
       {
         "curse": "curse_visions"
       }
+    ]
+  },
+  {
+    "id": "vaultfloating1",
+    "obstacles": [
+      {
+        "peril": "peril_sea"
+      },
+      {
+        "guardian": "guardian_watchers"
+      },
+      {
+        "seal": "seal_wardeddoor"
+      },
+      {
+        "curse": null
+      }
+    ],
+    "books": [
+      "firecircletantra",
+      "ceaselesstantra",
+      "incandescenttantra",
+      "leoninetantra"
     ]
   }
 ]
