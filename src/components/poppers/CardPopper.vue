@@ -42,6 +42,7 @@ const props = defineProps({
   background: rgb(250,248,233) !important
   border: 1px solid black
   border-radius: 3px
+  //display: block !important
 .card
   width: 500px
   border: 1px solid black

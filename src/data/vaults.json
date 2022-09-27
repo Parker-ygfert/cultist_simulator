@@ -262,6 +262,21 @@
   },
   {
     "id": "vaultshires1",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultshires",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
@@ -286,6 +301,21 @@
   },
   {
     "id": "vaultshires2",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultshires",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_treacherousground"
@@ -313,6 +343,21 @@
   },
   {
     "id": "vaultshires3",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultshires",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
@@ -351,6 +396,21 @@
   },
   {
     "id": "vaultshires4",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultshires",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_treacherousground"
@@ -381,6 +441,21 @@
   },
   {
     "id": "vaultshires5",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultshires",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
@@ -405,6 +480,20 @@
   },
   {
     "id": "vaultshiresdefault",
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultshires",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
