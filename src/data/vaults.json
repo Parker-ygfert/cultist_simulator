@@ -1050,6 +1050,21 @@
   },
   {
     "id": "vaultrendingmountains1",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultrendingmountains",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_mountains"
@@ -1078,6 +1093,21 @@
   },
   {
     "id": "vaultrendingmountains2",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultrendingmountains",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_mountains"
@@ -1104,6 +1134,21 @@
   },
   {
     "id": "vaultrendingmountains3",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultrendingmountains",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_mountains"
@@ -1129,6 +1174,21 @@
   },
   {
     "id": "vaultrendingmountains4",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultrendingmountains",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_mountains"
@@ -1154,6 +1214,20 @@
   },
   {
     "id": "vaultrendingmountainsdefault",
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultrendingmountains",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_mountains"
