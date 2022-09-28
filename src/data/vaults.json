@@ -796,6 +796,21 @@
   },
   {
     "id": "vaultlandbeyondforest1",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultlandbeyondforest",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_mountains"
@@ -826,6 +841,21 @@
   },
   {
     "id": "vaultlandbeyondforest2",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultlandbeyondforest",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
@@ -858,6 +888,21 @@
   },
   {
     "id": "vaultlandbeyondforest3",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultlandbeyondforest",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
@@ -894,6 +939,21 @@
   },
   {
     "id": "vaultlandbeyondforest4",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultlandbeyondforest",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
@@ -919,6 +979,21 @@
   },
   {
     "id": "vaultlandbeyondforest5",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultlandbeyondforest",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_treacherousground"
@@ -944,6 +1019,20 @@
   },
   {
     "id": "vaultlandbeyondforestdefault",
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultlandbeyondforest",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_mountains"

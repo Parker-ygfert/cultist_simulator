@@ -45,6 +45,18 @@
   "vaultcontinent6_context": "維也納是少數幾個在每重歷史中都擁有著相同名字的城市之一，儘管學徒們稱之為白城，抑或是純白之城。在滿是白雪的街道上，在一棟扭曲的房子中，在發出吱嘎聲的高高的閣樓上，我們聽說了一名狩獵空想之鑰的古怪獵人所著的一小批古怪書籍。",
   "vaultcontinentdefault": "一望無際的巨石陣",
   "vaultcontinentdefault_context": "巨石由早已逝去的祭司階層排成整齊到偏執的行列。時間早已洗去了原本的血漬，但是當無月之夜來臨，當地人會補充殘留下的東西。隱秘的暗室中或許藏有隱秘的寶物。[你已找到所有位於大陸的探險地點，不過你仍可以再次找到並造訪巨石陣。]",
-  "vaultlandbeyondforest1": "",
-  "vaultlandbeyondforest1_context": ""
+  "vaultlandbeyondforest1": "蠟燭岩洞",
+  "vaultlandbeyondforest1_context": "每七次日落，狡詐的男人便從下方的村落上來更換蠟燭。岩洞入口處的地上浮著一層臭氣熏人的蠟油。他號稱燭光能威懾岩洞深處的某個生物。不過它更可能是因為享用了他帶來的祭品才心滿意足，甘心閉門不出。",
+  "vaultlandbeyondforest2": "大公的城塞",
+  "vaultlandbeyondforest2_context": "在突厥人勢力滔天的年代，一位有力之人曾統治此地。許多年間，他平復了許多人的干渴，直到敗給自己的干渴。我聽說他的金銀財寶，加上為他所害的人們，或許還留存在這座城堡下的某個無人涉足的地下寶庫中。",
+  "vaultlandbeyondforest3": "格呂內瓦爾德的長駐馬戲團",
+  "vaultlandbeyondforest3_context": "刷了白石灰的農場外圍駐紮著一群裰著補丁的帳篷，彷彿一座小小的城市。格呂內瓦爾德女士將她可觀的財產投入到了維護這個組織的運轉上：沒人知道為什麼。馬戲團演員討厭別人擅闖幕後。",
+  "vaultlandbeyondforest4": "瑞弗克塔樓",
+  "vaultlandbeyondforest4_context": "一座荒廢建築的殘垣。空氣彷彿潰爛般散發著膿水味道。毀滅此地的那種力量依然停留不去。地面上只殘存著一層樓，但是我們猜測地下還有更大空間。",
+  "vaultlandbeyondforest5": "庫茲涅佐夫的捐贈",
+  "vaultlandbeyondforest5_context": "庫茲涅佐夫公爵將他沾滿鮮血的財富的四分之一捐給這座地方大學以建立末世學學部。學部的員工現在變得怪裡怪氣，捐贈的樓房則爛在了一片冰封的沼澤里，不過庫茲涅佐夫公爵的遺贈或許有部分被花在了購置財寶上。",
+  "vaultlandbeyondforestdefault": "狐百合原野",
+  "vaultlandbeyondforestdefault_context": "狐百合的花香能夠勾起人如狼似虎的食慾。它們只在這個海拔生長或許是人的幸運。農民們已經組織起來驅逐尋寶者，但有些尋寶者還是被狐百合變成了飢餓的俘虜。他們自己的寶物落在自己的白骨旁，周而復始。[你已找到所有位於森林盡頭之地的探險地點，不過你仍可以再次找到並造訪這片原野。]",
+  "vault1": "",
+  "vault1_context": ""
 }

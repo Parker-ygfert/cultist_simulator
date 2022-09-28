@@ -38,6 +38,18 @@
   "vaultcontinent6_context": "Vienna is one of those few cities which has the same name in every History, although adepts know it as the White City, or perhaps the City of the White. In a snowy street, in a crooked house, in a high and rattling attic, we have learnt that an eccentric hunter of imaginary keys has established a tiny trove of odd books.",
   "vaultcontinentdefault": "The Unnumbered Stones",
   "vaultcontinentdefault_context": "Megaliths placed in obsessive, inerrant rows by priest-castes long dead. Time has long erased the original blood-stains, but on moonless nights, the locals supplement what remains. Hidden chambers might guard hidden treasures. [You've found all the Expeditions on the Continent, although you can find and visit the Stones several times.]",
-  "vaultlandbeyondforest1": "",
-  "vaultlandbeyondforest1_context": ""
+  "vaultlandbeyondforest1": "Cave of Candles",
+  "vaultlandbeyondforest1_context": "Every seventh sunset, the cunning man comes from the village below to renew the candles. The floor of the entrance chamber is a slick of stinking wax. He claims the light keeps the creature below cowed; but more likely the sacrifices he brings keep it too sated to emerge.",
+  "vaultlandbeyondforest2": "Voivode's Citadel",
+  "vaultlandbeyondforest2_context": "In the days of the great power of the Turks, a man of power ruled here. Over many years he fed many thirsts, until his own thirst overcame him. I have learned that both his treasures, and his victims, may remain in an untouched vault below the castle.",
+  "vaultlandbeyondforest3": "Grunewald's Permanent Circus",
+  "vaultlandbeyondforest3_context": "A tiny city of patched tents around a white-washed farm. Hunched performers shiver in the dripping rain. Frau Grunewald has devoted her considerable fortune to the maintenance of this institution: who knows why? The circus performers dislike trespassers behind the scenes.",
+  "vaultlandbeyondforest4": "Tower Revek",
+  "vaultlandbeyondforest4_context": "The blasted stump of a building. The air festers. Whatever power destroyed this place still clings. Only one floor remains above ground, but we suspect more space below.",
+  "vaultlandbeyondforest5": "The Kusnetsov Endowment",
+  "vaultlandbeyondforest5_context": "Prince Kusnetsov gave one fourth part of his blood-soaked fortune to the establishment of a Department for Eschatology at this provincial university. The staff have grown peculiar, now, and the buildings fester in a freezing swamp, but some of Kusnetsov's bequest, perhaps, was spent on treasures.",
+  "vaultlandbeyondforestdefault": "Foxlily Meadows",
+  "vaultlandbeyondforestdefault_context": "The scent of foxlilies inspires ferocious appetites. It is probably fortunate that they grow only at this altitude. The peasants have organised to keep treasure-seekers away, but some treasure-seekers fall prey to lily-hungers. Their own treasures lie among their bones; and so the cycle continues. [You've found all the Expeditions in the Land Beyond the Forest, although you can find and visit the Meadows several times.]",
+  "vault1": "",
+  "vault1_context": ""
 }
