@@ -1245,6 +1245,21 @@
   },
   {
     "id": "vaultloneandlevelsands1",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultloneandlevelsands",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_desert"
@@ -1270,6 +1285,21 @@
   },
   {
     "id": "vaultloneandlevelsands2",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultloneandlevelsands",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_desert"
@@ -1304,6 +1334,21 @@
   },
   {
     "id": "vaultloneandlevelsands3",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultloneandlevelsands",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_desert"
@@ -1328,6 +1373,21 @@
   },
   {
     "id": "vaultloneandlevelsands4",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultloneandlevelsands",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_desert"
@@ -1355,6 +1415,20 @@
   },
   {
     "id": "vaultloneandlevelsandsdefault",
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaultloneandlevelsands",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_desert"
@@ -1372,6 +1446,21 @@
   },
   {
     "id": "vaulteveningisles1",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaulteveningisles",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_sea"
@@ -1397,6 +1486,21 @@
   },
   {
     "id": "vaulteveningisles2",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaulteveningisles",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_sea"
@@ -1424,6 +1528,21 @@
   },
   {
     "id": "vaulteveningisles3",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaulteveningisles",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_sea"
@@ -1451,6 +1570,21 @@
   },
   {
     "id": "vaulteveningisles4",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaulteveningisles",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": null
@@ -1476,6 +1610,20 @@
   },
   {
     "id": "vaulteveningislesdefault",
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vaulteveningisles",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_sea"
@@ -1493,6 +1641,17 @@
   },
   {
     "id": "vaultfloating1",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "location",
+        "level": 0
+      },
+      {
+        "name": "vault",
+        "level": 0
+      }
+    ],
     "obstacles": [
       {
         "peril": "peril_sea"
