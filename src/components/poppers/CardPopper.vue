@@ -5,7 +5,7 @@
     <div class="card">
       <div class="main">
         <div class="img">
-          <img :src="getImageUrl(`${props.dir}/${props.title}.png`)" alt="">
+          <lazyload-img :src="getImageUrl(`${props.dir}/${props.title}.png`)" alt="" />
         </div>
         <div class="description">
           <p class="title">{{ $t(`${props.title}`) }}</p>
@@ -15,7 +15,7 @@
       </div>
       <div class="footer">
         <p v-for="aspect in props.aspects" class="aspects">
-          <img :src="getImageUrl(`aspects/${aspect.name}.png`)" alt="">
+          <lazyload-img :src="getImageUrl(`aspects/${aspect.name}.png`)" alt="" />
           {{ aspect.level || null }}
         </p>
       </div>

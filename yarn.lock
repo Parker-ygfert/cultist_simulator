@@ -1352,6 +1352,11 @@ vue-i18n@^9.3.0-beta.3:
     "@intlify/vue-devtools" "9.3.0-beta.3"
     "@vue/devtools-api" "^6.2.1"
 
+vue3-lazyload-img@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/vue3-lazyload-img/-/vue3-lazyload-img-0.1.2.tgz#c3fa82dbf59b062f5ccb278c1945eee11fea7ffc"
+  integrity sha512-8CfqYHdLvZ7esgp6yqWZe7n1HJ3HNMatY2CetwVo8Vbs20cP/ffQIzQ1LtngNv0Nmoai3TXvDP/IS2qpN/NDdw==
+
 vue3-popper@^1.5.0:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/vue3-popper/-/vue3-popper-1.5.0.tgz#eeac767e1011942fe1737e8299a832b530c0a997"
