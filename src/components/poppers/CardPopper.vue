@@ -59,6 +59,7 @@ const props = defineProps({
       border: 2px solid black
       border-radius: 2px
       transform: rotate(-2deg)
+      background: black
       img
         width: 100%
         height: 100%
@@ -70,6 +71,7 @@ const props = defineProps({
         font-size: 16px
         font-weight: bold
       .context
+        font-weight: 400
         line-height: 18px
       .unique
         margin-top: 10px
@@ -78,8 +80,7 @@ const props = defineProps({
     gap: 6px
     box-sizing: border-box
     background: #dcd3bd
-    padding: 0 10px
-    height: 40px
+    padding: 10px
     .aspects
       margin: auto 0
       width: 26px

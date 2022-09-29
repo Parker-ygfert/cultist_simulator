@@ -216,3 +216,7 @@ a {
   color: #25a4bb;
   text-decoration: none;
 }
+
+.defalut-img-box {
+  display: block !important;
+}

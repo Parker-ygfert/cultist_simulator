@@ -1,82 +1,172 @@
 [
   {
     "id": "guardian_dead",
-    "aspect": "guardian",
+    "aspect": [
+      {
+        "name": "guardian",
+        "level": 0
+      }
+    ],
     "overcomes": ["edge", "winter", null]
   },
   {
+    "id": "guardian_long",
+    "aspect": [
+      {
+        "name": "guardian",
+        "level": 0
+      }
+    ],
+    "overcomes": ["grail", "moth", null]
+  },
+  {
     "id": "guardian_monks",
-    "aspect": "guardian",
+    "aspect": [
+      {
+        "name": "guardian",
+        "level": 0
+      }
+    ],
     "overcomes": ["edge", "moth", null]
   },
   {
     "id": "guardian_serpent",
-    "aspect": "guardian",
+    "aspect": [
+      {
+        "name": "guardian",
+        "level": 0
+      }
+    ],
     "overcomes": ["edge", "knock", null]
   },
   {
     "id": "guardian_soucouyants",
-    "aspect": "guardian",
+    "aspect": [
+      {
+        "name": "guardian",
+        "level": 0
+      }
+    ],
     "overcomes": ["lantern", "moth", null]
   },
   {
     "id": "guardian_watchers",
-    "aspect": "guardian",
+    "aspect": [
+      {
+        "name": "guardian",
+        "level": 0
+      }
+    ],
     "overcomes": ["edge", "grail", "moth"]
   },
   {
     "id": "seal_hiddendoor",
-    "aspect": "seal",
+    "aspect": [
+      {
+        "name": "seal",
+        "level": 0
+      }
+    ],
     "overcomes": ["knock", "lantern", null]
   },
   {
     "id": "seal_wardeddoor",
-    "aspect": "seal",
+    "aspect": [
+      {
+        "name": "seal",
+        "level": 0
+      }
+    ],
     "overcomes": ["forge", "knock", null]
   },
   {
     "id": "peril_desert",
-    "aspect": "peril",
+    "aspect": [
+      {
+        "name": "peril",
+        "level": 0
+      }
+    ],
     "overcomes": ["forge", "grail", null]
   },
   {
     "id": "peril_forest",
-    "aspect": "peril",
+    "aspect": [
+      {
+        "name": "peril",
+        "level": 0
+      }
+    ],
     "overcomes": ["forge", "moth", null]
   },
   {
     "id": "peril_mountains",
-    "aspect": "peril",
+    "aspect": [
+      {
+        "name": "peril",
+        "level": 0
+      }
+    ],
     "overcomes": ["forge", "winter", null]
   },
   {
     "id": "peril_sea",
-    "aspect": "peril",
+    "aspect": [
+      {
+        "name": "peril",
+        "level": 0
+      }
+    ],
     "overcomes": ["forge", "heart", null]
   },
   {
     "id": "peril_treacherousground",
-    "aspect": "peril",
+    "aspect": [
+      {
+        "name": "peril",
+        "level": 0
+      }
+    ],
     "overcomes": ["forge", "lantern", null]
   },
   {
     "id": "curse_affliction",
-    "aspect": "curse",
+    "aspect": [
+      {
+        "name": "curse",
+        "level": 0
+      }
+    ],
     "overcomes": ["grail", "heart", null]
   },
   {
     "id": "curse_dread",
-    "aspect": "curse",
+    "aspect": [
+      {
+        "name": "curse",
+        "level": 0
+      }
+    ],
     "overcomes": ["heart", "lantern", null]
   },
   {
     "id": "curse_nowhere",
-    "aspect": "curse",
+    "aspect": [
+      {
+        "name": "curse",
+        "level": 0
+      }
+    ],
     "overcomes": ["lantern", "moth", null]
   },
   {
     "id": "curse_visions",
-    "aspect": "curse",
+    "aspect": [
+      {
+        "name": "curse",
+        "level": 0
+      }
+    ],
     "overcomes": ["heart", "winter", null]
   }
 ]
