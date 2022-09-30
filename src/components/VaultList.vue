@@ -59,9 +59,16 @@
                   <div class="empty-name"></div>
                 </div>
                 <div class="overcomes">
-                  <div v-if="obstacle" v-for="overcome in obstacle.overcomes" class="overcome">
-                    <lazyload-img v-if="overcome" :src="getImageUrl(`lores/${overcome}.png`)" alt="" />
-                  </div>
+                  <CardPopper
+                    v-if="obstacle"
+                    v-for="overcome in obstacle.overcomes"
+                    dir="lores"
+                    :title="overcome"
+                  >
+                    <div class="overcome">
+                      <lazyload-img v-if="overcome" :src="getImageUrl(`lores/${overcome}.png`)" alt="" />
+                    </div>
+                  </CardPopper>
                   <div v-else="obstacle" v-for="n in 3" class="overcome"></div>
                 </div>
               </div>
