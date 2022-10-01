@@ -15,7 +15,7 @@
                   dir="aspects"
                   :title="obstacle"
                 >
-                  <div class="img"><lazyload-img :src="getImageUrl(`aspects/${obstacle}.png`)" alt="" /></div>
+                  <div class="img"><lazyload-img :src="getImageUrl(`aspects/${obstacle}.webp`)" alt="" /></div>
                 </CardPopper>
               </th>
             </tr>
@@ -37,7 +37,7 @@
             :aspects="vault.aspects"
           >
             <div class="img">
-              <lazyload-img :src="getImageUrl(`vaults/${vault.id}.png`)" alt="" />
+              <lazyload-img :src="getImageUrl(`vaults/${vault.id}.webp`)" alt="" />
             </div>
           </CardPopper>
         </td>
@@ -49,10 +49,10 @@
                   v-if="name"
                   dir="obstacles"
                   :title="name"
-                  :aspects="obstacle.aspect"
+                  :aspects="obstacle.aspects"
                 >
                   <div class="img">
-                    <lazyload-img :src="getImageUrl(`obstacles/${name}.png`)" alt="" />
+                    <lazyload-img :src="getImageUrl(`obstacles/${name}.webp`)" alt="" />
                   </div>
                 </CardPopper>
                 <div v-else="name" class="img">
@@ -62,11 +62,11 @@
                   <CardPopper
                     v-if="obstacle"
                     v-for="overcome in obstacle.overcomes"
-                    dir="lores"
+                    dir="aspects"
                     :title="overcome"
                   >
                     <div class="overcome">
-                      <lazyload-img v-if="overcome" :src="getImageUrl(`lores/${overcome}.png`)" alt="" />
+                      <lazyload-img v-if="overcome" :src="getImageUrl(`aspects/${overcome}.webp`)" alt="" />
                     </div>
                   </CardPopper>
                   <div v-else="obstacle" v-for="n in 3" class="overcome"></div>
@@ -76,31 +76,58 @@
           </div>
         </td>
         <td class="books">
-          <div>
-            <div v-for="book in vault.books" class="img">
-              <lazyload-img :src="getImageUrl(`books/${book}.png`)" alt="" />
-            </div>
+          <div class="list">
+            <CardPopper
+              v-for="bookName in vault.books"
+              :set="book = books.find(el => el.id === bookName) || {}"
+              dir="books"
+              :title="bookName"
+              :unique="book.unique || false"
+              :aspects="book.aspects || []"
+            >
+              <div class="img">
+                <lazyload-img :src="getImageUrl(`books/${bookName}.webp`)" alt="" />
+              </div>
+            </CardPopper>
           </div>
         </td>
         <td class="tools">
-          <div>
-            <div v-for="tool in vault.tools" class="img">
-              <lazyload-img :src="getImageUrl(`tools/${tool}.png`)" alt="" />
-            </div>
+          <div class="list">
+            <CardPopper
+              v-for="tool in vault.tools"
+              dir="tools"
+              :title="tool"
+            >
+              <div class="img">
+                <lazyload-img :src="getImageUrl(`tools/${tool}.webp`)" alt="" />
+              </div>
+            </CardPopper>
           </div>
         </td>
         <td class="ingredients">
-          <div>
-            <div v-for="ingredient in vault.ingredients" class="img">
-              <lazyload-img :src="getImageUrl(`ingredients/${ingredient}.png`)" alt="" />
-            </div>
+          <div class="list">
+            <CardPopper
+              v-for="ingredient in vault.ingredients"
+              dir="ingredients"
+              :title="ingredient"
+            >
+              <div class="img">
+                <lazyload-img :src="getImageUrl(`ingredients/${ingredient}.webp`)" alt="" />
+              </div>
+            </CardPopper>
           </div>
         </td>
         <td class="other">
-          <div>
-            <div v-for="other in vault.other" class="img">
-              <lazyload-img v-if="other" :src="getImageUrl(`${other.dir}/${other.name}.png`)" alt="" />
-            </div>
+          <div class="list">
+            <CardPopper
+              v-for="other in vault.other"
+              :dir="other.dir"
+              :title="other.name"
+            >
+              <div class="img">
+                <lazyload-img :src="getImageUrl(`${other.dir}/${other.name}.webp`)" alt="" />
+              </div>
+            </CardPopper>
           </div>
         </td>
       </tr>
@@ -115,6 +142,7 @@ import { getImageUrl } from '../scripts/get_image_url.js'
 import CardPopper from './poppers/CardPopper'
 import vaults from '../data/vaults.json'
 import obstacles from '../data/obstacles.json'
+import books from '../data/books.json'
 
 const obstacleAspect = name => {
   return obstacles.find(el => el.id === name)

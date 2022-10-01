@@ -4,15 +4,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultcapital",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -35,7 +35,7 @@
       "travellingatnight3",
       "treatiseonunderplaces",
       "wainscothistories",
-      "textbookfucine"
+      "textbookfucinelatin"
     ]
   },
   {
@@ -43,15 +43,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultcapital",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -89,15 +89,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultcapital",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -117,7 +117,7 @@
     ],
     "books": [
       "apolloandmarsyas",
-      "franklinbancroftdiaries"
+      "franklinbancroftdiarieslatin"
     ],
     "tools": [
       "toolheartb"
@@ -137,15 +137,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultcapital",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -165,7 +165,7 @@
     ],
     "books": [
       "locksmithsdream3",
-      "roseofhypatia"
+      "roseofhypatiagreek"
     ],
     "tools": [
       "toolgrailb"
@@ -185,15 +185,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultcapital",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -212,9 +212,9 @@
       }
     ],
     "books": [
-      "roseofnuriel",
-      "roseofwaznei",
-      "debellismurorum",
+      "roseofnurielgreek",
+      "roseofwazneigreek",
+      "debellismurorumlatin",
       "chioneatabydos",
       "textbookgreek"
     ],
@@ -233,15 +233,15 @@
     "id": "vaultcapitaldefault",
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultcapital",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -265,15 +265,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultshires",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -292,8 +292,8 @@
       }
     ],
     "books": [
-      "orchidtransfigurations3",
-      "indignitiesobliviate"
+      "orchidtransfigurations3latin",
+      "indignitiesobliviatelatin"
     ],
     "ingredients": [
       "ingredientheartd"
@@ -304,15 +304,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultshires",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -331,7 +331,7 @@
       }
     ],
     "books": [
-      "flayedtantra"
+      "flayedtantrasanskrit"
     ],
     "tools": [
       "toolmothb",
@@ -346,15 +346,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultshires",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -373,7 +373,7 @@
       }
     ],
     "books": [
-      "bookofcentipede"
+      "bookofcentipedegreek"
     ],
     "tools": [
       "toolwinterb",
@@ -399,15 +399,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultshires",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -444,15 +444,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultshires",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -471,10 +471,10 @@
       }
     ],
     "books": [
-      "shavenlocktantra",
-      "matthiasamethystloss",
-      "thosewhodonotsleep",
-      "concursumdiaries",
+      "shavenlocktantrasanskrit",
+      "matthiasamethystlossaramaic",
+      "thosewhodonotsleepfucine",
+      "concursumdiariesphrygian",
       "textbooklatin"
     ]
   },
@@ -482,15 +482,15 @@
     "id": "vaultshiresdefault",
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultshires",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -514,15 +514,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultcontinent",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -541,9 +541,9 @@
       }
     ],
     "books": [
-      "highmysterieschurchsolar",
-      "bookoftrueblood",
-      "morphycodex"
+      "highmysterieschurchsolarfucine",
+      "bookoftruebloodlatin",
+      "morphycodexaramaic"
     ],
     "tools": [
       "toolforgeb"
@@ -557,15 +557,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultcontinent",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -585,10 +585,10 @@
     ],
     "books": [
       "textbookaramaic",
-      "thirstingtantra",
-      "dehoris2",
-      "tantraworms",
-      "againstsisterhoodknot"
+      "thirstingtantrasanskrit",
+      "dehoris2latin",
+      "tantrawormssanskrit",
+      "againstsisterhoodknotgreek"
     ],
     "ingredients": [
       "ingredientheartb"
@@ -599,15 +599,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultcontinent",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -626,7 +626,7 @@
       }
     ],
     "books": [
-      "inthemountainsasupontheplain"
+      "inthemountainsasupontheplainvak"
     ],
     "tools": [
       "toolgrailmoth",
@@ -641,15 +641,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultcontinent",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -669,8 +669,8 @@
     ],
     "books": [
       "textbookaramaic",
-      "vinzantinscriptions",
-      "watchfultantra",
+      "vinzantinscriptionsphrygian",
+      "watchfultantrasanskrit",
       "geminiad"
     ],
     "tools": [
@@ -692,15 +692,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultcontinent",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -719,10 +719,10 @@
       }
     ],
     "books": [
-      "devouredtantra",
-      "matthiasamethysttransformation",
-      "deedsofthescarredcaptain",
-      "worlddoesnotweep"
+      "devouredtantrasanskrit",
+      "matthiasamethysttransformationaramaic",
+      "deedsofthescarredcaptaingreek",
+      "worlddoesnotweeparamaic"
     ]
   },
   {
@@ -730,15 +730,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultcontinent",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -757,25 +757,25 @@
       }
     ],
     "books": [
-      "serenityofblackwood",
-      "irreproachabletraditionssocietynobleendeavour",
-      "onthematterandthedeedsofserpents",
-      "textbookfucine"
+      "serenityofblackwoodgreek",
+      "irreproachabletraditionssocietynobleendeavourlatin",
+      "onthematterandthedeedsofserpentsvak",
+      "textbookfucinelatin"
     ]
   },
   {
     "id": "vaultcontinentdefault",
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultcontinent",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -799,15 +799,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultlandbeyondforest",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -826,8 +826,8 @@
       }
     ],
     "books": [
-      "theskythesoul",
-      "accountkanishkspidersdoor"
+      "theskythesoularamaic",
+      "accountkanishkspidersdooraramaic"
     ],
     "ingredients": [
       "ingredientlanternf"
@@ -844,15 +844,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultlandbeyondforest",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -871,10 +871,10 @@
       }
     ],
     "books": [
-      "catalogueofunchartedpleasures",
-      "twentysixenticementsseventorments",
-      "gospelzacchaeus",
-      "bookofthrones"
+      "catalogueofunchartedpleasuresphrygian",
+      "twentysixenticementsseventormentsfucine",
+      "gospelzacchaeusgreek",
+      "bookofthronesphrygian"
     ],
     "tools": [
       "toolheartd"
@@ -891,15 +891,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultlandbeyondforest",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -918,9 +918,9 @@
       }
     ],
     "books": [
-      "historyofshadowlesskings",
-      "ivorybook",
-      "sunsetpassages",
+      "historyofshadowlesskingsaramaic",
+      "ivorybookfucine",
+      "sunsetpassageslatin",
       "textbooksanskrit"
     ],
     "ingredients": [
@@ -942,15 +942,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultlandbeyondforest",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -969,9 +969,9 @@
       }
     ],
     "books": [
-      "furioustantra",
-      "howendwillbegin",
-      "twinserpenttantra"
+      "furioustantrasanskrit",
+      "howendwillbeginvak",
+      "twinserpenttantrasanskrit"
     ],
     "ingredients": [
       "ingredientforgeb"
@@ -982,15 +982,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultlandbeyondforest",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1009,27 +1009,27 @@
       }
     ],
     "books": [
-      "matthiasamethystpursuit",
-      "burningwoman",
-      "ironbook",
-      "knownunknowntantra",
-      "encirclingtantra",
-      "silverbook"
+      "matthiasamethystpursuitaramaic",
+      "burningwomanphrygian",
+      "ironbookfucine",
+      "knownunknowntantrasanskrit",
+      "encirclingtantrasanskrit",
+      "silverbookfucine"
     ]
   },
   {
     "id": "vaultlandbeyondforestdefault",
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultlandbeyondforest",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1053,15 +1053,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultrendingmountains",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1080,8 +1080,8 @@
       }
     ],
     "books": [
-      "bookofdissolution",
-      "textbookmandaic"
+      "bookofdissolutionmandaic",
+      "textbookmandaicaramaic"
     ],
     "tools": [
       "toolforged"
@@ -1096,15 +1096,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultrendingmountains",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1123,8 +1123,8 @@
       }
     ],
     "books": [
-      "dreamconspiracyskies",
-      "wherehasshegone",
+      "dreamconspiracyskiesphrygian",
+      "wherehasshegonevak",
       "textbookvaksanskrit"
     ],
     "tools": [
@@ -1137,15 +1137,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultrendingmountains",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1164,8 +1164,8 @@
       }
     ],
     "books": [
-      "bookofmasks",
-      "larquebinecodex"
+      "bookofmasksphrygian",
+      "larquebinecodexphrygian"
     ],
     "tools": [
       "toollanternfcracked",
@@ -1177,15 +1177,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultrendingmountains",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1204,9 +1204,9 @@
       }
     ],
     "books": [
-      "textbookphrygian",
-      "asthesunhiscourse",
-      "secondglory"
+      "textbookphrygiangreek",
+      "asthesunhiscoursearamaic",
+      "secondglorymandaic"
     ],
     "ingredients": [
       "ingredientwinterd"
@@ -1216,15 +1216,15 @@
     "id": "vaultrendingmountainsdefault",
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultrendingmountains",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1248,15 +1248,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultloneandlevelsands",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1275,9 +1275,9 @@
       }
     ],
     "books": [
-      "manneralchemistspared",
-      "focusamber",
-      "medusaslament"
+      "manneralchemistsparedvak",
+      "focusambermandaic",
+      "medusaslamentgreek"
     ],
     "tools": [
       "toollanternd"
@@ -1288,15 +1288,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultloneandlevelsands",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1315,7 +1315,7 @@
       }
     ],
     "books": [
-      "voyagesfo"
+      "voyagesfofucine"
     ],
     "tools": [
       "toolmothf",
@@ -1337,15 +1337,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultloneandlevelsands",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1364,8 +1364,8 @@
       }
     ],
     "books": [
-      "sevenfoldslayingsevencoiled",
-      "songscarapacecross"
+      "sevenfoldslayingsevencoiledfucine",
+      "songscarapacecrossmandaic"
     ],
     "tools": [
       "toolheartf"
@@ -1376,15 +1376,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultloneandlevelsands",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1403,7 +1403,7 @@
       }
     ],
     "books": [
-      "memoryofgods"
+      "memoryofgodsfucine"
     ],
     "tools": [
       "toolwinterf",
@@ -1411,21 +1411,27 @@
     ],
     "ingredients": [
       "ingredientwinterf"
+    ],
+    "other": [
+      {
+        "dir": "influences",
+        "name": "influencewintere"
+      }
     ]
   },
   {
     "id": "vaultloneandlevelsandsdefault",
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaultloneandlevelsands",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1449,15 +1455,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaulteveningisles",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1476,9 +1482,9 @@
       }
     ],
     "books": [
-      "originsofhours",
-      "fivecreations",
-      "manualdeparture"
+      "originsofhoursvak",
+      "fivecreationsvak",
+      "manualdeparturevak"
     ],
     "tools": [
       "toolgrailf"
@@ -1489,15 +1495,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaulteveningisles",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1516,8 +1522,8 @@
       }
     ],
     "books": [
-      "timedivision",
-      "bighuff"
+      "timedivisionmandaic",
+      "bighufffucine"
     ],
     "tools": [
       "toolforgef"
@@ -1531,15 +1537,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaulteveningisles",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1558,8 +1564,8 @@
       }
     ],
     "books": [
-      "bookwhitecat",
-      "bookextinguishedheart"
+      "bookwhitecatphrygian",
+      "bookextinguishedheartmandaic"
     ],
     "tools": [
       "toolknockf"
@@ -1573,15 +1579,15 @@
     "unique": true,
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaulteveningisles",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1600,9 +1606,9 @@
       }
     ],
     "books": [
-      "birdsong",
-      "commandspreservationallexists",
-      "scarsky"
+      "birdsongphrygian",
+      "commandspreservationallexistsmandaic",
+      "scarskyfucine"
     ],
     "tools": [
       "toollanternf"
@@ -1612,15 +1618,15 @@
     "id": "vaulteveningislesdefault",
     "aspects": [
       {
+        "name": "vault",
+        "level": 0
+      },
+      {
         "name": "location",
         "level": 0
       },
       {
         "name": "vaulteveningisles",
-        "level": 0
-      },
-      {
-        "name": "vault",
         "level": 0
       }
     ],
@@ -1644,11 +1650,11 @@
     "unique": true,
     "aspects": [
       {
-        "name": "location",
+        "name": "vault",
         "level": 0
       },
       {
-        "name": "vault",
+        "name": "location",
         "level": 0
       }
     ],
@@ -1667,10 +1673,10 @@
       }
     ],
     "books": [
-      "firecircletantra",
-      "ceaselesstantra",
-      "incandescenttantra",
-      "leoninetantra"
+      "firecircletantrasanskrit",
+      "ceaselesstantrasanskrit",
+      "incandescenttantrasanskrit",
+      "leoninetantrasanskrit"
     ]
   }
 ]

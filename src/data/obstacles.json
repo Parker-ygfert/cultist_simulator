@@ -1,7 +1,7 @@
 [
   {
     "id": "guardian_dead",
-    "aspect": [
+    "aspects": [
       {
         "name": "guardian",
         "level": 0
@@ -11,7 +11,7 @@
   },
   {
     "id": "guardian_long",
-    "aspect": [
+    "aspects": [
       {
         "name": "guardian",
         "level": 0
@@ -21,7 +21,7 @@
   },
   {
     "id": "guardian_monks",
-    "aspect": [
+    "aspects": [
       {
         "name": "guardian",
         "level": 0
@@ -31,7 +31,7 @@
   },
   {
     "id": "guardian_serpent",
-    "aspect": [
+    "aspects": [
       {
         "name": "guardian",
         "level": 0
@@ -41,7 +41,7 @@
   },
   {
     "id": "guardian_soucouyants",
-    "aspect": [
+    "aspects": [
       {
         "name": "guardian",
         "level": 0
@@ -51,7 +51,7 @@
   },
   {
     "id": "guardian_watchers",
-    "aspect": [
+    "aspects": [
       {
         "name": "guardian",
         "level": 0
@@ -61,7 +61,7 @@
   },
   {
     "id": "seal_hiddendoor",
-    "aspect": [
+    "aspects": [
       {
         "name": "seal",
         "level": 0
@@ -71,7 +71,7 @@
   },
   {
     "id": "seal_wardeddoor",
-    "aspect": [
+    "aspects": [
       {
         "name": "seal",
         "level": 0
@@ -81,7 +81,7 @@
   },
   {
     "id": "peril_desert",
-    "aspect": [
+    "aspects": [
       {
         "name": "peril",
         "level": 0
@@ -91,7 +91,7 @@
   },
   {
     "id": "peril_forest",
-    "aspect": [
+    "aspects": [
       {
         "name": "peril",
         "level": 0
@@ -101,7 +101,7 @@
   },
   {
     "id": "peril_mountains",
-    "aspect": [
+    "aspects": [
       {
         "name": "peril",
         "level": 0
@@ -111,7 +111,7 @@
   },
   {
     "id": "peril_sea",
-    "aspect": [
+    "aspects": [
       {
         "name": "peril",
         "level": 0
@@ -121,7 +121,7 @@
   },
   {
     "id": "peril_treacherousground",
-    "aspect": [
+    "aspects": [
       {
         "name": "peril",
         "level": 0
@@ -131,7 +131,7 @@
   },
   {
     "id": "curse_affliction",
-    "aspect": [
+    "aspects": [
       {
         "name": "curse",
         "level": 0
@@ -141,7 +141,7 @@
   },
   {
     "id": "curse_dread",
-    "aspect": [
+    "aspects": [
       {
         "name": "curse",
         "level": 0
@@ -151,7 +151,7 @@
   },
   {
     "id": "curse_nowhere",
-    "aspect": [
+    "aspects": [
       {
         "name": "curse",
         "level": 0
@@ -161,7 +161,7 @@
   },
   {
     "id": "curse_visions",
-    "aspect": [
+    "aspects": [
       {
         "name": "curse",
         "level": 0

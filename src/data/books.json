@@ -1,0 +1,3247 @@
+[
+  {
+    "id": "genericrubbishbook",
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "textbookpassion",
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "textbookreason",
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "textbookaramaic",
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "textbookfucine",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "textbookfucinelatin",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      },
+      {
+        "name": "textlatin",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "textbookgreek",
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "textbooklatin",
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "textbookmandaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "textbookmandaicaramaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      },
+      {
+        "name": "textaramaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "textbookphrygian",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "textbookphrygiangreek",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      },
+      {
+        "name": "textgreek",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "textbooksanskrit",
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "textbookvak",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "id": "textbookvaksanskrit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      },
+      {
+        "name": "textsanskrit",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "accountkanishkspidersdoor",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "accountkanishkspidersdooraramaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textaramaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "againstsisterhoodknot",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "againstsisterhoodknotgreek",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textgreek",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "apolloandmarsyas",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "asthesunhiscourse",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "asthesunhiscoursearamaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textaramaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "bighuff",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "bighufffucine",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textfucine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "birdsong",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "birdsongphrygian",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textphrygian",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "bookextinguishedheart",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "bookextinguishedheartmandaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textmandaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "bookofcentipede",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "bookofcentipedegreek",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textgreek",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "bookofdissolution",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "bookofdissolutionmandaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textmandaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "bookofmasks",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "bookofmasksphrygian",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textphrygian",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "bookofthrones",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "bookofthronesphrygian",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textphrygian",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "bookoftrueblood",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "bookoftruebloodlatin",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textlatin",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "bookwhitecat",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "bookwhitecatphrygian",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textphrygian",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "burningofunburntgod",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "burningwoman",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "burningwomanphrygian",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textphrygian",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "catalogueofunchartedpleasures",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "catalogueofunchartedpleasuresphrygian",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textphrygian",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "ceaselesstantra",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "ceaselesstantrasanskrit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textsanskrit",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "chioneatabydos",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "commandspreservationallexists",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "commandspreservationallexistsmandaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textmandaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "concursumdiaries",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "concursumdiariesphrygian",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textphrygian",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "debellismurorum",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "debellismurorumlatin",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      },
+      {
+        "name": "textlatin",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "deedsofthescarredcaptain",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "deedsofthescarredcaptaingreek",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textgreek",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "dehoris1",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "dehoris1latin",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      },
+      {
+        "name": "textlatin",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "dehoris2",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "dehoris2latin",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      },
+      {
+        "name": "textlatin",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "devouredtantra",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "devouredtantrasanskrit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textaramaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "dreamconspiracyskies",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "dreamconspiracyskiesphrygian",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textphrygian",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "encirclingtantra",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "encirclingtantrasanskrit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textsanskrit",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "firecircletantra",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "firecircletantrasanskrit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textsanskrit",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "fivecreations",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "fivecreationsvak",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textvak",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "flayedtantra",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "flayedtantrasanskrit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textsanskrit",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "focusamber",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "focusambermandaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textmandaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "franklinbancroftdiaries",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "franklinbancroftdiarieslatin",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textlatin",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "furioustantra",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "furioustantrasanskrit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textsanskrit",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "geminiad",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "knock",
+        "level": 2
+      },
+      {
+        "name": "tool",
+        "level": 0
+      },
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "geminiadfucine",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "knock",
+        "level": 2
+      },
+      {
+        "name": "tool",
+        "level": 0
+      },
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      },
+      {
+        "name": "textfucine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "geminiadread",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "knock",
+        "level": 2
+      },
+      {
+        "name": "tool",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "gospelzacchaeus",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "gospelzacchaeusgreek",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textgreek",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "highmysterieschurchsolar",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "highmysterieschurchsolarfucine",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textfucine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "historyofshadowlesskings",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "historyofshadowlesskingsaramaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textaramaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "howendwillbegin",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "howendwillbeginvak",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textvak",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "humoursofagentleman",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "incandescenttantra",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "incandescenttantrasanskrit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textsanskrit",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "indignitiesobliviate",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "indignitiesobliviatelatin",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textlatin",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "inthemountainsasupontheplain",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "inthemountainsasupontheplainvak",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textvak",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "introductiontohistories",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "ironbook",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "ironbookfucine",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textfucine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "irreproachabletraditionssocietynobleendeavour",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "irreproachabletraditionssocietynobleendeavourlatin",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textlatin",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "ivorybook",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "ivorybookfucine",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textfucine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "kitlingripe",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "knownunknowntantra",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "knownunknowntantrasanskrit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textsanskrit",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "larquebinecodex",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "larquebinecodexphrygian",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textphrygian",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "leoninetantra",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "leoninetantrasanskrit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textsanskrit",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "locksmithsdream1",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "locksmithsdream2",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "locksmithsdream3",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "locksmithsdream4",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "locksmithsdream5",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "lantern",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "matthiasamethystloss",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "matthiasamethystlossaramaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textaramaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "manneralchemistspared",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "manneralchemistsparedvak",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textvak",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "manualdeparture",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "manualdeparturevak",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textvak",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "matthiasamethystpursuit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "matthiasamethystpursuitaramaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textaramaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "matthiasamethysttransformation",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "matthiasamethysttransformationaramaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textaramaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "medusaslament",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "medusaslamentgreek",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textgreek",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "memoryofgods",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "memoryofgodsfucine",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textfucine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "morphycodex",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "morphycodexaramaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textaramaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "onthematterandthedeedsofserpents",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "onthematterandthedeedsofserpentsvak",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textvak",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "onthewhite",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "onwhatiscontainedbysilver",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "onwhatiscontainedbysilvergreek",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      },
+      {
+        "name": "textgreek",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "orchidtransfigurations1",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "orchidtransfigurations1latin",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      },
+      {
+        "name": "textlatin",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "orchidtransfigurations2",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "orchidtransfigurations2latin",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      },
+      {
+        "name": "textlatin",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "orchidtransfigurations3",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "orchidtransfigurations3latin",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      },
+      {
+        "name": "textlatin",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "orchidtransfigurations3",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      },
+      {
+        "name": "textlatin",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "originsofhours",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "originsofhoursvak",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textvak",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "queensoftherivers",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "raptintheking",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "roseofhypatia",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "roseofhypatiagreek",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textgreek",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "roseofnuriel",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "roseofnurielgreek",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textgreek",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "roseofwaznei",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "roseofwazneigreek",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textgreek",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "scarsky",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "scarskyfucine",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textfucine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "secondglory",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "secondglorymandaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textmandaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "serenityofblackwood",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "serenityofblackwoodgreek",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textgreek",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "sevenfoldslayingsevencoiled",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "sevenfoldslayingsevencoiledfucine",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textfucine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "shavenlocktantra",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "shavenlocktantrasanskrit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textsanskrit",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "silverbook",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "silverbookfucine",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textfucine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "sixlettersonnecessity",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "skeletonsongs",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "songscarapacecross",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "songscarapacecrossmandaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textmandaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "stumm",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "sunsetpassages",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "sunsetpassageslatin",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textlatin",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "tantraworms",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "tantrawormssanskrit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textsanskrit",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "theskythesoul",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "theskythesoularamaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textaramaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "thirstingtantra",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "thirstingtantrasanskrit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textsanskrit",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "thosewhodonotsleep",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "thosewhodonotsleepfucine",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textfucine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "timedivision",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "timedivisionmandaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textmandaic",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "travellingatnight1",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "travellingatnight2",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "travellingatnight3",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "treatiseonunderplaces",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "truecompleteasclepian",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "truecompleteasclepiangreek",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      },
+      {
+        "name": "textgreek",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "twentysixenticementsseventorments",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "twentysixenticementsseventormentsfucine",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textfucine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "twinserpenttantra",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "twinserpenttantrasanskrit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textsanskrit",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "victoryofcrowns",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "vienneseconundra",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "vinzantinscriptions",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "vinzantinscriptionsphrygian",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textphrygian",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "voyagesfo",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "voyagesfofucine",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textfucine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "wainscothistories",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "waroftheroadscensored",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "watchfultantra",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "watchfultantrasanskrit",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textsanskrit",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "wherehasshegone",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "wherehasshegonevak",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textvak",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "worlddoesnotweep",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": "worlddoesnotweeparamaic",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "text",
+        "level": 0
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "textaramaic",
+        "level": 0
+      }
+    ]
+  }
+]

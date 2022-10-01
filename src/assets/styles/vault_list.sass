@@ -89,7 +89,6 @@ div.vault-list
 
     td
       border-top: none
-
       .img
         width: 83px
         height: 83px
@@ -109,12 +108,20 @@ div.vault-list
           border-right: none
 
     &.books, &.tools, &.ingredients, &.other
-      div
-        display: flex
+      .list
+        text-align: left
 
       .img
         width: 73px
         height: 73px
+
+    &.books
+      .list
+        width: 438px
+
+    &.tools, &.ingredients, &.other
+      .list
+        width: 146px
 
   img
     width: 100%
