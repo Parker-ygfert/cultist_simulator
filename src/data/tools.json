@@ -1,0 +1,517 @@
+[
+  {
+    "id": "toollanternbcracked",
+    "aspects": [
+      {
+        "name": "lantern",
+        "level": 0
+      },
+      {
+        "name": "ingredient",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolwinterd",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "winter",
+        "level": 8
+      },
+      {
+        "name": "auctionable",
+        "level": 5
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolheartb",
+    "aspects": [
+      {
+        "name": "heart",
+        "level": 4
+      },
+      {
+        "name": "auctionable",
+        "level": 3
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolgrailb",
+    "aspects": [
+      {
+        "name": "grail",
+        "level": 4
+      },
+      {
+        "name": "auctionable",
+        "level": 3
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolmothb",
+    "aspects": [
+      {
+        "name": "moth",
+        "level": 4
+      },
+      {
+        "name": "auctionable",
+        "level": 3
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolknockb",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "knock",
+        "level": 4
+      },
+      {
+        "name": "auctionable",
+        "level": 3
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolwinterb",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "winter",
+        "level": 4
+      },
+      {
+        "name": "auctionable",
+        "level": 3
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "tooledgeb",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "edge",
+        "level": 4
+      },
+      {
+        "name": "auctionable",
+        "level": 3
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toollanterndcracked",
+    "aspects": [
+      {
+        "name": "lantern",
+        "level": 2
+      },
+      {
+        "name": "ingredient",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "tooledged",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "edge",
+        "level": 8
+      },
+      {
+        "name": "auctionable",
+        "level": 5
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolforgeb",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "forge",
+        "level": 4
+      },
+      {
+        "name": "auctionable",
+        "level": 3
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolgrailmoth",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "grail",
+        "level": 2
+      },
+      {
+        "name": "moth",
+        "level": 2
+      },
+      {
+        "name": "auctionable",
+        "level": 2
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolmothd",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "moth",
+        "level": 8
+      },
+      {
+        "name": "auctionable",
+        "level": 5
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolsecrethistoriesb",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "secrethistories",
+        "level": 4
+      },
+      {
+        "name": "auctionable",
+        "level": 3
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolheartd",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "heart",
+        "level": 8
+      },
+      {
+        "name": "auctionable",
+        "level": 5
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolforged",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "forge",
+        "level": 8
+      },
+      {
+        "name": "auctionable",
+        "level": 5
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolgraild",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "grail",
+        "level": 8
+      },
+      {
+        "name": "auctionable",
+        "level": 5
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "tooledgef",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "edge",
+        "level": 12
+      },
+      {
+        "name": "auctionable",
+        "level": 6
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toollanternfcracked",
+    "aspects": [
+      {
+        "name": "lantern",
+        "level": 3
+      },
+      {
+        "name": "ingredient",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolknockd",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "knock",
+        "level": 8
+      },
+      {
+        "name": "auctionable",
+        "level": 5
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toollanternd",
+    "aspects": [
+      {
+        "name": "lantern",
+        "level": 8
+      },
+      {
+        "name": "auctionable",
+        "level": 5
+      },
+      {
+        "name": "tool",
+        "level": 0
+      },
+      {
+        "name": "mirror",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolmothf",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "moth",
+        "level": 12
+      },
+      {
+        "name": "auctionable",
+        "level": 6
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolsecrethistoriesd",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "secrethistories",
+        "level": 8
+      },
+      {
+        "name": "auctionable",
+        "level": 5
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolheartf",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "heart",
+        "level": 12
+      },
+      {
+        "name": "auctionable",
+        "level": 6
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolwinterf",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "winter",
+        "level": 12
+      },
+      {
+        "name": "auctionable",
+        "level": 6
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolgrailf",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "grail",
+        "level": 12
+      },
+      {
+        "name": "auctionable",
+        "level": 6
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolforgef",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "forge",
+        "level": 12
+      },
+      {
+        "name": "auctionable",
+        "level": 6
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toolknockf",
+    "unique": true,
+    "aspects": [
+      {
+        "name": "knock",
+        "level": 12
+      },
+      {
+        "name": "auctionable",
+        "level": 6
+      },
+      {
+        "name": "tool",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "toollanternf",
+    "aspects": [
+      {
+        "name": "lantern",
+        "level": 12
+      },
+      {
+        "name": "auctionable",
+        "level": 6
+      },
+      {
+        "name": "tool",
+        "level": 0
+      },
+      {
+        "name": "mirror",
+        "level": 0
+      }
+    ]
+  },
+  {}
+]

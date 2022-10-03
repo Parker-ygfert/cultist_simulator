@@ -79,11 +79,11 @@
           <div class="list">
             <CardPopper
               v-for="bookName in vault.books"
-              :set="book = books.find(el => el.id === bookName) || {}"
+              :set="book = books.find(el => el.id === bookName)"
               dir="books"
               :title="bookName"
-              :unique="book.unique || false"
-              :aspects="book.aspects || []"
+              :unique="book.unique"
+              :aspects="book.aspects"
             >
               <div class="img">
                 <lazyload-img :src="getImageUrl(`books/${bookName}.webp`)" alt="" />
@@ -94,12 +94,15 @@
         <td class="tools">
           <div class="list">
             <CardPopper
-              v-for="tool in vault.tools"
+              v-for="toolName in vault.tools"
+              :set="tool = tools.find(el => el.id === toolName) || {}"
               dir="tools"
-              :title="tool"
+              :title="toolName"
+              :unique="tool.unique"
+              :aspects="tool.aspects"
             >
               <div class="img">
-                <lazyload-img :src="getImageUrl(`tools/${tool}.webp`)" alt="" />
+                <lazyload-img :src="getImageUrl(`tools/${toolName}.webp`)" alt="" />
               </div>
             </CardPopper>
           </div>
@@ -138,15 +141,16 @@
 
 <script setup>
 import { onMounted } from 'vue'
-import { getImageUrl } from '../scripts/get_image_url.js'
+import { getImageUrl } from '@/scripts/get_image_url.js'
 import CardPopper from './poppers/CardPopper'
-import vaults from '../data/vaults.json'
-import obstacles from '../data/obstacles.json'
-import books from '../data/books.json'
+import vaults from '@/data/vaults.json'
+import obstacles from '@/data/obstacles.json'
+import books from '@/data/books.json'
+import tools from '@/data/tools.json'
 
 const obstacleAspect = name => {
   return obstacles.find(el => el.id === name)
 }
 </script>
 
-<style lang="sass" src="../assets/styles/vault_list.sass" scoped></style>
+<style lang="sass" src="@/assets/styles/vault_list.sass" scoped></style>

@@ -9,7 +9,7 @@
         </div>
         <div class="description">
           <p class="title">{{ $t(`${props.title}`) }}</p>
-          <p class="context">{{ $t(`${props.title}_context`) }}</p>
+          <p class="context" v-html="$t(`${props.title}_context`)"></p>
           <p v-if="props.unique" class="unique">{{ $t('unique') }}</p>
         </div>
       </div>
